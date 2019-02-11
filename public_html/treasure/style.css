@@ -1,0 +1,11 @@
+body{
+    background-image: url("../img/ln(e).jpg");
+    background-repeat: repeat;
+    background-position: center center;
+    background-attachment: scroll;
+}
+
+h1{
+    color:#ccffcc;
+    font-variant: small-caps;
+}
